@@ -1,0 +1,43 @@
+Data Science Capstone Project
+========================================================
+
+date: May, 2018
+
+Objective
+========================================================
+
+The Coursera Data Science Specialization Capstone is to create an app that predicts the next word in a phrase.
+The following slides provide details of the app and show:
+- Model Overview
+- App Screenshot
+- Conclusions
+- Appendix
+
+
+Model Overview
+========================================================
+
+The application uses documents collected from blogs, news articles, and twitter to model language patterns. 
+The model uses a subset of a large set of data. 
+
+The app is avaialble at:
+https://en.wikipedia.org/wiki/N-gram
+
+
+
+Conclusions 
+========================================================
+The model can be further refined and extended to other languages.
+The larger the data set, the better the prediction and the worse the perfomance
+
+
+
+Appendix
+========================================================
+
+Useful model references:
+
+- [N-Grams] (https://en.wikipedia.org/wiki/N-gram)
+- [Markov Model] (https://en.wikipedia.org/wiki/Markov_model)
+- [Katz's back-off model] (https://en.wikipedia.org/wiki/Katz%27s_back-off_model)
+
